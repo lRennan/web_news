@@ -2,13 +2,38 @@
 
 ![Screenshot_12-12-2024_02337_127 0 0 1](https://github.com/user-attachments/assets/111b0410-93a0-4283-bbd9-8787819efd37)
 
+## About
+NewsHub is a modern, responsive news website designed to provide the latest updates on technology, politics, sports, entertainment and more. It is ideal for users who want to access confidential information organized in an intuitive format.
 
-Creating a News Website using only HTML, CSS, and JavaScript is an excellent project for web development enthusiasts. This tutorial guides users through the process of building a dynamic and visually appealing news platform without relying on external frameworks or libraries. Using HTML for content structure, CSS for styling, and JavaScript for interactivity, learners can understand how to fetch and display news articles dynamically.
+## Features
+- **News Categories:** Organization of news by topics such as technology, science, sports, among others.
+- **Advanced Search:** Tool to find specific articles by keyword.
+- **Responsive Interface:** Design that adapts perfectly to different screen sizes (desktop, tablet and cell phone).
+- **Real-Time Highlights:** Display of the most relevant or popular news on the home page.
+- **External Links:** Access to complete articles in their original sources.
 
-This project provides practical experience in working with APIs, handling DOM manipulation, and creating a responsive layout. By incorporating these fundamental web technologies, developers can gain a comprehensive understanding of building a functional News Website from scratch. It's an ideal learning opportunity for those looking to hone their skills in front-end web development.
+## Technologies Used
+- **Frontend:** HTML, CSS, JavaScript 
+- **News APIs:** Integration with external APIs to search for updated content.
 
-Youtube Tutorial Link: https://youtu.be/vd0buCxrhvo
+## How to use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/seuusuario/newshub.git
+   ```
 
+2. Access in the browser:
+   ```
+   http://localhost:3000
+   ```
+
+## Contributing
+Contributions are welcome! Feel free to open *issues* or send *pull requests*. 
+
+---
+
+*Note:* This project is for educational and experimental purposes only.
+```
 
 
 
